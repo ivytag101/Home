@@ -1,3 +1,6 @@
+<span><a href='https://github.io/mikelkraft/mikelkraft'><img src='https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg?branch=main' alt='Coverage Status' /></a><!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/MikelKraft/MikelKraft/discussions" data-icon="octicon-comment-discussion" aria-label="Discuss MikelKraft/MikelKraft on GitHub">Discuss</a></span>
+
 <blockquote>This is not by accident: To whom a browser is given, a search is expected.</blockquote>
 - 👋 Hi, I’m @MikelKraft <br />
 - 👀 I’m interested in Web Development, Graphics and the Blockchain...<br />
