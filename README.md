@@ -1,7 +1,7 @@
 <a href='https://github.io/mikelkraft/mikelkraft'><img src='https://coveralls.io/repos/github/ntkme/github-buttons/badge.svg?branch=main' alt='Coverage Status' /></a>
 <blockquote>This is not by accident: To whom a browser is given, a search is expected.</blockquote>
 <h1 align="center">Hi 👋, I'm Mikael Kraft</h1>
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate fullstack developer ready to explore your world with you.</h3> <h2>Live your ideas in reality with me. May your days remain joyous mostly.</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikelkraft" alt="mikelkraft" /></a> </p>
 
