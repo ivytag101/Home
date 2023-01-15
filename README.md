@@ -1,9 +1,9 @@
 <em>Know this... Know peace...</em>
 <blockquote>This is not by accident: To whom a browser is given, a search is expected.</blockquote>
 <h1 align="center">Hi 👋, I'm Mikael Kraft</h1>
-<h3 align="center">A passionate fullstack developer ready to explore your world with you.</h3> <h2>Live your ideas in reality with me. May your days remain joyous always.</h2>
+<h3 align="center">A passionate fullstack developer ready to explore your world with you.</h3> <h2>Relive your ideas in reality with me and may your days remain joyous always.</h2>
 
-- 🔭 I’m currently working on some Blockchain and Social Marketing app. [This Digital Wrld Clock and Music player is dedicated to Juice Wrld](https://mikelkraft.github.io/Digital-Wrld-Clock)
+- 🔭 I’m currently working on some Blockchain and Social Marketing app. [This Digital Wrld Clock and Music player is dedicated to Juice Wrld](https://mikelkraft.github.io/dwc)
 
 - 🌱 I’m currently seeking BSC in **Computer Sciences**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact remains that **Life is fun...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mikaelkraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikaelkraft" height="30" width="40" /></a>
 </p>
