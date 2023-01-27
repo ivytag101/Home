@@ -1,7 +1,7 @@
 <em>Know this... Know peace...</em>
 <blockquote>This is not by accident: To whom a browser is given, a search is expected.</blockquote>
 <h1 align="center">Hi 👋, I'm Mikael Kraft</h1>
-<h3 align="center">A passionate fullstack developer ready to explore your world with you.</h3> <h2>Relive your ideas in reality with me and may your days remain joyous always.</h2>
+<h3 align="center">A passionate fullstack developer ready to explore your world with you.</h3> <h2>Relive your ideas in reality with me; may your days always remain joyous.</h2>
 
 - 🔭 I’m currently working on some Blockchain and Social Marketing app. [This Digital Wrld Clock and Music player is dedicated to Juice Wrld](https://mikelkraft.github.io/dwc)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mikewillkraft@gmail.com**
 
-- ⚡ Fun fact remains that **Life is fun...**
+- ⚡ Fun fact remains that **Life in coding is awesome...**
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
