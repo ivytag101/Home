@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently seeking BSC in **Computer Sciences**
 
-- 👨‍💻 All of my projects links will be made available soon. [#ivytag.com](#ivytag.com)
+- 👨‍💻 All of my projects links will be made available soon. [#ivytag world](#ivytag.world)
 
 - 💬 I'm open to chat in regards to **Web Development.**
 
