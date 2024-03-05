@@ -1,6 +1,6 @@
 <em>Know this... Know peace...</em>
 <blockquote>This is not by accident: To whom a browser is given, a search is expected.</blockquote>
-<h1 align="center">Hi 👋, This is Ivytag</h1>
+<h1 align="center">Hi 👋, This is Wisdom (Mikael Kraft)</h1>
 <h3 align="center">A passionate fullstack developer agency ready to explore your world with you.</h3> <h2>Relive your ideas in reality with us; may your days always remain joyous.</h2>
 
 - 🔭 I’m currently working on some Blockchain and Social Marketing app. [This Digital Wrld Clock and Music player is dedicated to Juice Wrld](https://ivytag101.github.io/dwc)
